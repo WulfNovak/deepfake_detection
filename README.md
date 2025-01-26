@@ -10,7 +10,7 @@ This notebook gives an automated comparison between pre-trained deepfake detecti
 
 ### Models: 
 - https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model
-- https://huggingface.co/joyc360/deepfakes
+- https://huggingface.co/Hemg/Deepfake-Detection
 - https://huggingface.co/dima806/deepfake_vs_real_image_detection
 
 ### GPUs and compute provided by Runpod
