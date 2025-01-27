@@ -13,7 +13,7 @@ This notebook gives an automated comparison between pre-trained deepfake detecti
 - https://huggingface.co/Hemg/Deepfake-Detection
 - https://huggingface.co/dima806/deepfake_vs_real_image_detection
 
-### GPUs and compute provided by Runpod
+### GPUs and compute
 - https://www.runpod.io/
 
 
