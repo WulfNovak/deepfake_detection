@@ -1,6 +1,6 @@
 
 ## Description
-This notebook gives an automated comparison between pre-trained deepfake detection models across 4 datasets. Different levels of quantization are compared between models, giving results for when lower cloud compute costs and faster inference time are preferred. 
+Beginning with datasets composed of fake and real facial images, this notebook automates the comparison between pre-trained deepfake image classification models across 4 datasets. 
 
 ### Datasets:
 - https://huggingface.co/datasets/Whab/deepfake
@@ -12,9 +12,9 @@ This notebook gives an automated comparison between pre-trained deepfake detecti
 - https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model
 - https://huggingface.co/Hemg/Deepfake-Detection
 - https://huggingface.co/dima806/deepfake_vs_real_image_detection
+- https://huggingface.co/romitbarua/autotrain-deepfakeface_only_faces_insightface-94902146221
+- https://huggingface.co/Wvolf/ViT_Deepfake_Detection
 
-### GPUs and compute
-- https://www.runpod.io/
 
 
 
