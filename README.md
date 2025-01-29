@@ -1,6 +1,6 @@
 
 ## Description
-Beginning with datasets composed of fake and real facial images, this notebook gives an automated comparison between deepfake image classification models across 4 datasets. 
+Beginning with datasets composed of fake and real facial images, this notebook gives comparison between deepfake image classification models across 4 datasets. 
 
 ### Datasets:
 - https://huggingface.co/datasets/Whab/deepfake
